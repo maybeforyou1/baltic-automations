@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small luxe tweak */
+html, body, #root {
+  height: 100%;
+}
